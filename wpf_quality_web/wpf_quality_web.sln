@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_quality_web", "wpf_quality_web.csproj", "{AA138C1A-A213-41DE-A1D1-1EC5DE26768F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA138C1A-A213-41DE-A1D1-1EC5DE26768F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA138C1A-A213-41DE-A1D1-1EC5DE26768F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA138C1A-A213-41DE-A1D1-1EC5DE26768F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA138C1A-A213-41DE-A1D1-1EC5DE26768F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F672BAB6-05A2-43A7-8E5E-D38C005BA2CD}
+	EndGlobalSection
+EndGlobal

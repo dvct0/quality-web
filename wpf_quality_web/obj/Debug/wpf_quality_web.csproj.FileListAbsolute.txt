@@ -1,0 +1,75 @@
+C:\Users\user\source\repos\wpf_quality_web\bin\Debug\wpf_quality_web.exe.config
+C:\Users\user\source\repos\wpf_quality_web\bin\Debug\wpf_quality_web.exe
+C:\Users\user\source\repos\wpf_quality_web\bin\Debug\wpf_quality_web.pdb
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\wpf_quality_web.csprojAssemblyReference.cache
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\App.g.cs
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.cache
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.lref
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\wpf_quality_web.g.resources
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\wpf_quality_web.Properties.Resources.resources
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.GenerateResource.cache
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\wpf_quality_web.exe
+C:\Users\user\source\repos\wpf_quality_web\obj\Debug\wpf_quality_web.pdb
+G:\учёба\Маслов Р.А\wpf_quality_web\bin\Debug\wpf_quality_web.exe.config
+G:\учёба\Маслов Р.А\wpf_quality_web\bin\Debug\wpf_quality_web.exe
+G:\учёба\Маслов Р.А\wpf_quality_web\bin\Debug\wpf_quality_web.pdb
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.csprojAssemblyReference.cache
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\MainWindow.g.cs
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\App.g.cs
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.cache
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.lref
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\MainWindow.baml
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.g.resources
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.Properties.Resources.resources
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.GenerateResource.cache
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.CoreCompileInputs.cache
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.exe
+G:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.pdb
+E:\учёба\Маслов Р.А\wpf_quality_web\bin\Debug\wpf_quality_web.exe.config
+E:\учёба\Маслов Р.А\wpf_quality_web\bin\Debug\wpf_quality_web.exe
+E:\учёба\Маслов Р.А\wpf_quality_web\bin\Debug\wpf_quality_web.pdb
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.csprojAssemblyReference.cache
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\MainWindow.g.cs
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\App.g.cs
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.cache
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.lref
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\MainWindow.baml
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.g.resources
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.Properties.Resources.resources
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.GenerateResource.cache
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.CoreCompileInputs.cache
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.exe
+E:\учёба\Маслов Р.А\wpf_quality_web\obj\Debug\wpf_quality_web.pdb
+D:\bin\student\Shmakov\csharp\wpf_quality_web\bin\Debug\wpf_quality_web.exe.config
+D:\bin\student\Shmakov\csharp\wpf_quality_web\bin\Debug\wpf_quality_web.exe
+D:\bin\student\Shmakov\csharp\wpf_quality_web\bin\Debug\wpf_quality_web.pdb
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\wpf_quality_web.csprojAssemblyReference.cache
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\MainWindow.g.cs
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\App.g.cs
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.cache
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.lref
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\MainWindow.baml
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\wpf_quality_web.g.resources
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\wpf_quality_web.Properties.Resources.resources
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.GenerateResource.cache
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.CoreCompileInputs.cache
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\wpf_quality_web.exe
+D:\bin\student\Shmakov\csharp\wpf_quality_web\obj\Debug\wpf_quality_web.pdb
+D:\bin\student\Shmakov\wpf_quality_web\bin\Debug\wpf_quality_web.exe.config
+D:\bin\student\Shmakov\wpf_quality_web\bin\Debug\wpf_quality_web.exe
+D:\bin\student\Shmakov\wpf_quality_web\bin\Debug\wpf_quality_web.pdb
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\wpf_quality_web.csprojAssemblyReference.cache
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\MainWindow.g.cs
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\App.g.cs
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.cache
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\wpf_quality_web_MarkupCompile.lref
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\MainWindow.baml
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\wpf_quality_web.g.resources
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\wpf_quality_web.Properties.Resources.resources
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.GenerateResource.cache
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\wpf_quality_web.csproj.CoreCompileInputs.cache
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\wpf_quality_web.exe
+D:\bin\student\Shmakov\wpf_quality_web\obj\Debug\wpf_quality_web.pdb

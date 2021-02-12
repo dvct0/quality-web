@@ -1,0 +1,190 @@
+﻿<Window x:Class="wpf_quality_web.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_quality_web"
+        mc:Ignorable="d"
+        Title="Quality web" Height="500" MinWidth="750" WindowStyle="ToolWindow">
+    <ScrollViewer>
+        <Viewbox VerticalAlignment="Top">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="750"/>
+                    <RowDefinition Height="94"/>
+                    <RowDefinition Height="860"/>
+                    <RowDefinition Height="600"/>
+                    <RowDefinition Height="600"/>
+                    <RowDefinition Height="600"/>
+                    <RowDefinition Height="500"/>
+                    <RowDefinition Height="54"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <!--HEADER-->
+                <Image Height="750" VerticalAlignment="Top" Source="/img/banner.jpg" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" Stretch="UniformToFill"/>
+                <StackPanel Height="450" MaxWidth="1040" VerticalAlignment="Center" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center">
+                    <TextBlock Foreground="White" FontSize="60" TextWrapping="WrapWithOverflow" TextAlignment="Center" VerticalAlignment="Center">THERE ARE MANY VARIATIONS OF PASSAGES OF LOREM IPSUM AVAILABLE</TextBlock>
+                    <TextBlock Foreground="White" FontSize="20" TextWrapping="WrapWithOverflow" TextAlignment="Center" VerticalAlignment="Center">IT IS A LONG ESTABLISHED FACT THAT A READER WILL BE DISTRACTED BY THE READABLE CONTENT OF A PAGE WHEN LOOKING AT ITS LAYOUT. THE POINT OF USING LOREM IPSUM IS THAT IT HAS A MORE-OR-LESS NORMAL DISTRIBUTION</TextBlock>
+                </StackPanel>
+
+                <!--NAVBAR-->
+                <StackPanel Height="95" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Background="#f1cd69"/>
+                <WrapPanel HorizontalAlignment="Left" Background="#312934" Width="401" Orientation="Vertical" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3">
+                    <TextBlock FontSize="20" Width="401" TextAlignment="Center" Foreground="White">PROFFESSIONAL</TextBlock>
+                    <TextBlock FontSize="40" Width="401" TextAlignment="Center" Foreground="White">QUALITY</TextBlock>
+                </WrapPanel>
+                <WrapPanel Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Width="670" HorizontalAlignment="Right">
+                    <Button BorderBrush="Transparent" Foreground="White" Background="#312934" FontSize="20" Height="95" Padding="20" Margin="10,0">HOME</Button>
+                    <Button BorderBrush="Transparent" Foreground="White" Background="#f1cd69" FontSize="20" Height="95" Padding="20" Margin="10,0">ABOUT</Button>
+                    <Button BorderBrush="Transparent" Foreground="White" Background="#f1cd69" FontSize="20" Height="95" Padding="20" Margin="10,0">SERVICES</Button>
+                    <Button BorderBrush="Transparent" Foreground="White" Background="#f1cd69" FontSize="20" Height="95" Padding="20" Margin="10,0">BLOG</Button>
+                    <Button BorderBrush="Transparent" Foreground="White" Background="#f1cd69" FontSize="20" Height="95" Padding="20" Margin="10,0">CONTRACT</Button>
+                </WrapPanel>
+
+                <!--ONE   FEATURES-->
+                <Canvas Width="960" Height="651" Grid.Row="2" Grid.Column="1">
+                    <WrapPanel Width="960" Height="651" Orientation="Horizontal">
+                        <Polygon Fill="#312934" Points="0,87,150,0,300,87,300,267,150,354,0,267"/>
+                        <Polygon Fill="#312934" Points="0,87,150,0,300,87,300,267,150,354,0,267" Margin="30,0,30,0"/>
+                        <Polygon Fill="#312934" Points="0,87,150,0,300,87,300,267,150,354,0,267"/>
+                        <Polygon Fill="#312934" Points="0,87,150,0,300,87,300,267,150,354,0,267" Margin="165,-57,30,0"/>
+                        <Polygon Fill="#312934" Points="0,87,150,0,300,87,300,267,150,354,0,267" Margin="0,-57,0,0"/>
+                    </WrapPanel>
+                    <WrapPanel Width="960" Height="651" Orientation="Horizontal">
+                        <Image Source="/img/icon_1.png" Height="111" Margin="100,100,115,100"/>
+                        <Image Source="/img/icon_2.png" Height="111" Margin="115,100,115,100"/>
+                        <Image Source="/img/icon_3.png" Height="111" Margin="115,100,100,100"/>
+                        <Image Source="/img/icon_4.png" Height="111" Margin="267,100,100,100"/>
+                        <Image Source="/img/icon_5.png" Height="111" Margin="120,100,100,100"/>
+                    </WrapPanel>
+                    <Canvas Width="960" Height="651">
+                        <Label FontSize="20" Foreground="White" Canvas.Left="78" Canvas.Top="235">LOREM IPSUM</Label>
+                        <Label FontSize="20" Foreground="White" Canvas.Left="397" Canvas.Top="235">CONSUETUDIUM</Label>
+                        <Label FontSize="20" Foreground="White" Canvas.Left="743" Canvas.Top="235">MUTATIONEM</Label>
+                        <Label FontSize="20" Foreground="White" Canvas.Left="256" Canvas.Top="554">DYNAMICUS</Label>
+                        <Label FontSize="20" Foreground="White" Canvas.Left="586" Canvas.Top="554">PROCESSUS</Label>
+                    </Canvas>
+                </Canvas>
+
+                <!--OUR SERVICES-->
+                <Label HorizontalAlignment="Center" FontSize="40" Grid.Row="3" Grid.Column="1">OUR SERVICES</Label>
+                <WrapPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="3" Grid.Column="1" Margin="0,100,0,0">
+                    <StackPanel>
+                        <Image Source="/img/pic1.jpg" Width="350"/>
+                        <Rectangle Fill="#f1cd69" Width="350" Height="221"/>
+                        <Canvas>
+                            <Label FontWeight="Bold" FontSize="20" Foreground="White" Canvas.Left="95" Canvas.Top="-206">LOREM IPSUME</Label>
+                            <TextBlock TextAlignment="Center" TextWrapping="WrapWithOverflow" Background="Transparent" FontSize="20" Foreground="White" Canvas.Left="40" Canvas.Top="-164" Width="272" Height="117">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</TextBlock>
+                            <Image Source="/img/more.png" Canvas.Left="149" Canvas.Top="-42"/>
+                        </Canvas>
+                    </StackPanel>
+                    <StackPanel Margin="30,0">
+                        <Image Source="/img/pic2.jpg" Width="350"/>
+                        <Rectangle Fill="#f1cd69" Width="350" Height="221"/>
+                        <Canvas>
+                            <Label FontWeight="Bold" FontSize="20" Foreground="White" Canvas.Left="95" Canvas.Top="-206">LOREM IPSUME</Label>
+                            <TextBlock TextAlignment="Center" TextWrapping="WrapWithOverflow" Background="Transparent" FontSize="20" Foreground="White" Canvas.Left="40" Canvas.Top="-164" Width="272" Height="117">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</TextBlock>
+                            <Image Source="/img/more.png" Canvas.Left="149" Canvas.Top="-42"/>
+                        </Canvas>
+                    </StackPanel>
+                    <StackPanel>
+                        <Image Source="/img/pic3.jpg" Width="350"/>
+                        <Rectangle Fill="#f1cd69" Width="350" Height="221"/>
+                        <Canvas>
+                            <Label FontWeight="Bold" FontSize="20" Foreground="White" Canvas.Left="95" Canvas.Top="-206">LOREM IPSUME</Label>
+                            <TextBlock TextAlignment="Center" TextWrapping="WrapWithOverflow" Background="Transparent" FontSize="20" Foreground="White" Canvas.Left="40" Canvas.Top="-164" Width="272" Height="117">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</TextBlock>
+                            <Image Source="/img/more.png" Canvas.Left="149" Canvas.Top="-42"/>
+                        </Canvas>
+                    </StackPanel>
+                </WrapPanel>
+
+                <!--OUR TEAM-->
+                <Image Margin="0,0,0,0" Source="/img/banner1.jpg" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Stretch="UniformToFill"/>
+                <WrapPanel Orientation="Vertical" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" MaxWidth="1040">
+                    <Label Margin="0,80,0,20" FontSize="40" Foreground="White" HorizontalAlignment="Center" Grid.Row="4" Grid.Column="1">WELCOME TO OUR TEAM</Label>
+                    <WrapPanel HorizontalAlignment="Center" Margin="20">
+                        <Ellipse Width="120" Height="120" StrokeThickness="5" Stroke="#f1cd69">
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="/img/pic6.jpg"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <Ellipse Width="120" Height="120" Margin="20" StrokeThickness="5" Stroke="#f1cd69">
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="/img/pic7.jpg"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <Ellipse Width="120" Height="120" StrokeThickness="5" Stroke="#f1cd69">
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="/img/pic4.jpg"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                    </WrapPanel>
+                    <Label HorizontalAlignment="Center" Foreground="White" FontSize="20">LOREM IPSUM DOLOR SIT AMET, CONSECTETUER</Label>
+                    <Label HorizontalAlignment="Center" Foreground="White" FontSize="20">Dignissimos ducimus qui blanditiis praesentium voluptatum corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate nonrofficia deserunt mollitia animi id est.</Label>
+                    <Label HorizontalAlignment="Center" Foreground="White" FontSize="20">Dolor Smith, (trainer)</Label>
+                </WrapPanel>
+                
+                <!--HAPPY CLIENTS-->
+                <StackPanel Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" Background="#f1cd69"/>
+                <Label Margin="0,70,0,0" FontSize="40" Foreground="White" HorizontalAlignment="Center" Grid.Row="5" Grid.Column="1">HAPPY CLIENTS</Label>
+                <WrapPanel Margin="0,180,0,0" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Center" Width="auto">
+                    <Image Source="/img/pic5.png" Height="270" Margin="0,0,50,0"/>
+                    <WrapPanel Orientation="Vertical">
+                        <Image HorizontalAlignment="Left" Height="80" Source="/img/icon111.png" Margin="0,0,0,30"/>
+                        <TextBlock Foreground="White" Width="600" FontSize="20" TextWrapping="WrapWithOverflow" Text="Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure&#xD;&#xA;&#xD;&#xA;-   Lorem ipsum dolor sit amet"/>
+                    </WrapPanel>
+                </WrapPanel>
+
+                <!--FOOTER-->
+                <StackPanel Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="3" Background="#312934"/>
+                <WrapPanel Grid.Row="6" Grid.Column="1" HorizontalAlignment="Center" Margin="0,70,0,0">
+                    <WrapPanel Orientation="Vertical">
+                        <Label FontSize="30" FontWeight="DemiBold" Foreground="White">BROWSE</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">INDUSTRIAL RESOURCES</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">JOBS</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">BUILDINGS</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">CONTACTS</Label>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Vertical">
+                        <Label FontSize="30" FontWeight="DemiBold" Foreground="White">SERVICES</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">COMMUNICATIONS</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">ELECTRICAL</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">INDUSTRIAL</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">MECHANICAL</Label>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Vertical">
+                        <Label FontSize="30" FontWeight="DemiBold" Foreground="White">NAVIGATION</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">ABOUT US</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">APPLY</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">TERMS AND CONDITIONS</Label>
+                        <Label Margin="0,20,100,20" FontSize="20" Foreground="#888888">REGISTER</Label>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Vertical">
+                        <WrapPanel Orientation="Horizontal">
+                            <Image Source="/img/facebook.png" Height="120"/>
+                            <Image Source="/img/twitter.png" Height="120"/>
+                        </WrapPanel>
+                        <Label FontWeight="DemiBold" Foreground="#f1cd69" HorizontalAlignment="Left" FontSize="20">+0018 58287 58</Label>
+                        <Label Foreground="#888888" HorizontalAlignment="Left" FontSize="20">Mon - Fri / 9.00AM - 06.00PM</Label>
+                        <WrapPanel Orientation="Horizontal">
+                            <Label Foreground="#888888" HorizontalAlignment="Left" FontSize="20">Questions?</Label>
+                            <Label Foreground="White" HorizontalAlignment="Left" FontSize="20">mail(at)quality.com</Label>
+                        </WrapPanel>
+                    </WrapPanel>
+                </WrapPanel>
+                
+                <!--COPYRIGHT-->
+                <StackPanel Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="3" Background="#241C27"/>
+                <WrapPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="7" Grid.Column="1">
+                    <Label FontSize="20" Foreground="#888888">Copyright © 2015 quality . All Rights Reserved . Design by</Label>
+                    <Label FontSize="20" Foreground="#f1cd69">W3layouts</Label>
+                </WrapPanel>
+            </Grid>
+        </Viewbox>
+    </ScrollViewer>
+</Window>
